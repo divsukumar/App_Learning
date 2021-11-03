@@ -3,3 +3,6 @@
 3.new new code
 4.new lines added 
 5.see more code added 
+6.Adding som e more lines to the code for new feature
+7.New feature added
+All the new feature are implemented successfully
